@@ -16,4 +16,7 @@ End-to-end Power BI project providing a 360° view of FMCG business performance 
 - Enabled data-driven insights through KPIs, slicers, and drill-downs
 
 ## Dashboards
+![Dashboard](M1.png)
+![Dashboard](M2.png)
+![Dashboard](M3.png)
 
